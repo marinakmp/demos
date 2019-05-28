@@ -1,0 +1,10 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Node
+node_modules
+
+# Styles
+signup-demo/assets/css/theme.css
